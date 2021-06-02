@@ -75,7 +75,9 @@ Objetivos Especificos
 
 11) Comparamos los datos medidos en el circuito con los calculados mediante la reducción del circuito y elaboramos las conclusiones.
 
+
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
 
 ![](https://github.com/JardelMacas/LABORATORIO1/blob/main/Resumenes/AnalisisTecnico-01.png)
 ![](https://github.com/JardelMacas/LABORATORIO1/blob/main/Resumenes/AnalisisTecnico-02.png)
